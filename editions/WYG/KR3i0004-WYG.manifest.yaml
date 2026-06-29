@@ -1,0 +1,35 @@
+canonical_identifier: bkk:krp/KR3i0004/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3i0004/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 歙州硯譜
+  date: '2015-08-24 23:17:14.525284'
+  source:
+    repository: kanripo
+    path: KR3i0004
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3i0004_000-WYG.yaml, hash: 'sha256:333eee66fc40be0aae14831a68d2e22a0d34a3c0ac33328cd32adc4f52bdac4c'}
+  - {seq: 1, filename: KR3i0004_001-WYG.yaml, hash: 'sha256:933df3bd74a7576eb3e5f1b8ebeaabd4efd10419bd4e4f94342d5250cb031da0'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3i0004_001-WYG.markers.yaml, hash: 'sha256:c509ccadaf5e61ea8399c43ba9fbbbe2ec8cb28b932de9520c9a8d7f01e8c815'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3i0004_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 1851
+  label: 歙州硯譜
+  type: section
+  level: 1
+hash: sha256:2c5218d84737f953e4733f99238d0432a58a2c14dd648de1b7c750a5e1c9dd2e
