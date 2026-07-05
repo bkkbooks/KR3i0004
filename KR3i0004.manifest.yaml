@@ -21,9 +21,9 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR3i0004_000.yaml, hash: 'sha256:8bb9bb9b3cea67bf219df8b98d22d051a52a06d67b1a62ab28ad18568daf3263'}
-  - {seq: 1, filename: KR3i0004_001.yaml, hash: 'sha256:39f9bac1ac069cb0a504319e00562274554e435579672c7e912db857e6d7426f'}
+  - {seq: 1, filename: KR3i0004_001.yaml, hash: 'sha256:db08ef6055c8f414fcff4cf1ab95c2e774156f074c8ebcb6797a5e2b1825b54b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3i0004_001.markers.yaml, hash: 'sha256:55ef03d4abb83e8557781a988edcfc22c2ade88584bfc344cb68aa0c128cfbc3'}
+  - {seq: 1, role: markers, filename: assets/KR3i0004_001.markers.yaml, hash: 'sha256:b3542bdd6a26170d0393e4454affce7e978cef29106bbff1d31bdfdfea5821a5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,7 +35,4 @@ table_of_contents:
   label: 歙州硯譜
   type: section
   level: 1
-hash: sha256:abe34c90bb9901ec7adc27f8a27ecdae9bf619a1d70af3f5ab1c2d04e0272974
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:046f7e11919698b54c2f5b30628baf4f666b3a8c46d3c0406dad81db0caa74c4
