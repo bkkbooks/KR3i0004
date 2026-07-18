@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR3i0004_000-WYG.yaml, hash: 'sha256:333eee66fc40be0aae14831a68d2e22a0d34a3c0ac33328cd32adc4f52bdac4c'}
   - {seq: 1, filename: KR3i0004_001-WYG.yaml, hash: 'sha256:933df3bd74a7576eb3e5f1b8ebeaabd4efd10419bd4e4f94342d5250cb031da0'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3i0004_001-WYG.markers.yaml, hash: 'sha256:c509ccadaf5e61ea8399c43ba9fbbbe2ec8cb28b932de9520c9a8d7f01e8c815'}
+  - {seq: 1, role: markers, filename: assets/KR3i0004_001-WYG.markers.yaml, hash: 'sha256:2acb1f477b4b12f8323e9f6312fae2bae9500dbeb4a78bb572c2e161b888fa5f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,4 +32,4 @@ table_of_contents:
   label: 歙州硯譜
   type: section
   level: 1
-hash: sha256:2c5218d84737f953e4733f99238d0432a58a2c14dd648de1b7c750a5e1c9dd2e
+hash: sha256:9bbdae88e16253dd49df17cae3eb965c7fde056e7c492dd2e4d17aa5a864beee
